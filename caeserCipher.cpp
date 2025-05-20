@@ -3,7 +3,7 @@
 
 using namespace std;
 
-//improvement needed in terms of A/a and handling properly tmro write it again if possible.
+//improvement needed in terms of A/a and handling properly tmro write it again if possible
 int main(){
     string sentence;
     cout << "Enter the Sentence: ";
